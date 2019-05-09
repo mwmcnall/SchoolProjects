@@ -1,5 +1,5 @@
 # School Projects
-A collection of projects completed for my Data Analytics certification
+A collection of projects completed for my Data Analytics certification from JCCC in Overland Park Kansas.
 
 This includes projects from these classes:
 
