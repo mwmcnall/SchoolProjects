@@ -11,3 +11,5 @@ By utilizing these variables
 - Occupancy (measured as 0 or 1)
 
 The goal of this project was to figure out the most optimal solution for being able to predict if a room was occupied.
+
+[Here is an nbviewer link to the .pdf of the project](https://nbviewer.jupyter.org/github/mwmcnall/SchoolProjects/blob/project-finding/Data%20Mining/Office%20Room%20Occupancy.pdf)
