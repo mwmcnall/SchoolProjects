@@ -6,4 +6,4 @@ This is a dataset from [Opendata KC](https://data.kcmo.org/). It's a combination
 
 I decided to also visualize some of the results within Tableau to highlight my conclusions.
 
-[Here is an nbviewer link to the .pdf form of the project](https://nbviewer.jupyter.org/github/mwmcnall/SchoolProjects/blob/project-finding/Big%20Data%20Architecture/KC%20Crime.pdf)
+[Here is an nbviewer link to the .pdf form of the project](https://nbviewer.jupyter.org/github/mwmcnall/SchoolProjects/blob/master/Big%20Data%20Architecture/KC%20Crime.pdf)
