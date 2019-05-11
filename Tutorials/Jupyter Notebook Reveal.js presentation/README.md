@@ -30,7 +30,7 @@ You'll have the option of choosing these options for any of the blocks
 
 ## Creating the presentation
 
-You'll have to go to the local directory and type out the relevant nbconvert command to convert the Jupyter Notebook into a proper presentation.
+You'll have to go to the local directory and type out the relevant nbconvert command to convert the Jupyter Notebook into a proper presentation. I use Anaconda Prompt for this.
 
 There are multiple ways to go about this depending on what your needs are
 
